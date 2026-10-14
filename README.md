@@ -49,7 +49,7 @@ A maior parte do que construo roda dentro de empresa e fica em repositório priv
 
 ## Ferramentas
 
-| | |
+| Área | Tecnologias |
 |---|---|
 | Linguagens | Python, TypeScript, JavaScript, C#, SQL, PHP |
 | Automação e visão | OpenCV, Selenium, Playwright, OCR, PySide6 |
